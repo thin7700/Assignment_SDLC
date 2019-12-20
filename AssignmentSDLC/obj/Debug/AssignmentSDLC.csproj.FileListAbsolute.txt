@@ -1,0 +1,12 @@
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\bin\Debug\AssignmentSDLC.exe.config
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\bin\Debug\AssignmentSDLC.exe
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\bin\Debug\AssignmentSDLC.pdb
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\obj\Debug\AssignmentSDLC.csprojAssemblyReference.cache
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\obj\Debug\AssignmentSDLC.Form1.resources
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\obj\Debug\AssignmentSDLC.Properties.Resources.resources
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\obj\Debug\AssignmentSDLC.csproj.GenerateResource.cache
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\obj\Debug\AssignmentSDLC.exe
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\obj\Debug\AssignmentSDLC.pdb
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\obj\Debug\AssignmentSDLC.Form2.resources
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\obj\Debug\AssignmentSDLC.Form3.resources
+C:\Users\Tee\source\repos\AssignmentSDLC\AssignmentSDLC\obj\Debug\AssignmentSDLC.Form4.resources
